@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated outputs
+outputs/
+
+# Temporary files
+tree.txt
+
+# Model bundles
+*.pkl
+
+# Generated reports
+*.pdf
+
+# OS files
+Thumbs.db
+.DS_Store
